@@ -145,6 +145,21 @@ TCP/IP · Subnetting · VLAN · DHCP · Firewalls · VPNs · AWS Cloud Networkin
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=h-shawon&show_icons=true&theme=default&hide_title=false" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=h-shawon&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-shawon&layout=compact&theme=default" />
+</p>
+
+> *Replace `h-shawon` above with your exact GitHub username if it differs, and swap themes/params as you like.*
+
+---
+
 ## 🌱 Currently Exploring
 
 - 🔎 Deepening **Web Application Penetration Testing** skills

@@ -30,7 +30,7 @@ Right now my focus is on deepening skills in **web application penetration testi
 | 🔐 **Focus Areas** | Web App Security · VAPT · Threat Analysis · SIEM & Forensics · Red Teaming |
 | 🏅 **Top Certification** | Burp Suite Certified Practitioner (BSCP) |
 | 🚩 **CTF Highlight** | SMPCTF 2024 — 20th of 100+ teams |
-| 📈 **TryHackMe** | 803 rooms · 342-day streak · Global Rank #641 · Top 1% |
+| 📈 **TryHackMe** | 816 rooms · 354-day streak · Global Rank #629 · Top 1% |
 | 🌐 **Languages** | Bangla (Fluent) · English (Fluent) |
 
 ---

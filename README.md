@@ -97,8 +97,8 @@ Since January 2023, I've been actively practicing on TryHackMe and PortSwigger's
 | Event | Result |
 |---|---|
 | 🚩 **SMPCTF 2024** | Competed as part of a team — placed **20th among 100+ teams** |
-| 🔥 **TryHackMe Streak** | 342 consecutive days of active practice |
-| 🌍 **TryHackMe Global Rank** | #641 — Top 1% worldwide |
+| 🔥 **TryHackMe Streak** | 354 consecutive days of active practice |
+| 🌍 **TryHackMe Global Rank** | #629 — Top 1% worldwide |
 | 🇧🇩 **TryHackMe Bangladesh Rank** | Top 10 |
 
 ---

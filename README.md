@@ -75,17 +75,17 @@ Right now my focus is on deepening skills in **web application penetration testi
 ## 🚀 TryHackMe Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rooms%20Completed-803-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streak-342%20Days-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rooms%20Completed-816-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streak-354%20Days-blueviolet?style=for-the-badge" />
   <br/>
-  <img src="https://img.shields.io/badge/Global%20Rank-%23641-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Global%20Rank-%23629-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Top%201%25-Global-critical?style=for-the-badge" />
   <br/>
   <img src="https://img.shields.io/badge/Bangladesh%20Rank-Top%2010-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Badges%20Earned-60-lightgrey?style=for-the-badge" />
 </p>
 
-Since January 2023, I've been actively practicing on TryHackMe and PortSwigger's Web Security Academy — covering reconnaissance, authentication flaws, access control issues, injection vulnerabilities, network analysis, Linux/Windows security, and post-exploitation workflows. Consistency matters more to me than shortcuts, which is why the streak is something I'm proud of.
+Since January 2023, I've been actively practicing on TryHackMe and PortSwigger's Web Security Academy — covering reconnaissance, authentication flaws, access control issues, injection vulnerabilities, network analysis, Linux/Windows security, and post-exploitation workflows. Consistency matters more to me than shortcuts, which is why the streak is something I'm proud of the streak.
 
 🔗 **Profile:** [tryhackme.com/p/Ahadul](https://tryhackme.com/p/Ahadul)
 📝 **Writeups:** [github.com/h-shawon/THM_Writeups](https://github.com/h-shawon/THM_Writeups/tree/main)

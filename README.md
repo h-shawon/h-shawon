@@ -176,8 +176,6 @@ TCP/IP · Subnetting · VLAN · DHCP · Firewalls · VPNs · AWS Cloud Networkin
   <!-- <a href="#"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> -->
 </p>
 
-> *LinkedIn and X badges are placeholders — swap the `#` for your actual profile URLs.*
-
 ---
 
 <div align="center">

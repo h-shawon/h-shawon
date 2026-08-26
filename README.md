@@ -145,21 +145,6 @@ TCP/IP · Subnetting · VLAN · DHCP · Firewalls · VPNs · AWS Cloud Networkin
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=h-shawon&show_icons=true&theme=default&hide_title=false" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=h-shawon&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-shawon&layout=compact&theme=default" />
-</p>
-
-> *Replace `h-shawon` above with your exact GitHub username if it differs, and swap themes/params as you like.*
-
----
-
 ## 🌱 Currently Exploring
 
 - 🔎 Deepening **Web Application Penetration Testing** skills
@@ -187,8 +172,8 @@ TCP/IP · Subnetting · VLAN · DHCP · Firewalls · VPNs · AWS Cloud Networkin
   <a href="mailto:ahadul.haque.ah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/h-shawon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/Ahadul"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahadul-haque/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <!-- <a href="#"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> -->
 </p>
 
 > *LinkedIn and X badges are placeholders — swap the `#` for your actual profile URLs.*
@@ -197,6 +182,6 @@ TCP/IP · Subnetting · VLAN · DHCP · Firewalls · VPNs · AWS Cloud Networkin
 
 <div align="center">
 
-*Thanks for stopping by — feel free to check out my <a href="https://github.com/h-shawon/THM_Writeups/tree/main">TryHackMe writeups</a> or reach out.*
+*Thanks for stopping by — feel free to check out my <a href="https://github.com/h-shawon/THM_Writeups/">TryHackMe writeups</a> or reach out.*
 
 </div>

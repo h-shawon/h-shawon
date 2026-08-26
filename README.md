@@ -161,8 +161,8 @@ TCP/IP · Subnetting · VLAN · DHCP · Firewalls · VPNs · AWS Cloud Networkin
 |---|---|---|---|
 | MSc. Engr. in Computer Science and Engineering | Pabna University of Science and Technology | 2025 – Present | — |
 | BSc. Engr. in Computer Science and Engineering | Pabna University of Science and Technology | 2025 | CGPA 3.37/4.00 |
-| HSC | Rajuk Uttara Model College | — | GPA 4.83/5.00 |
-| SSC | Qadirabad Cantonment Public School | — | GPA 5.00/5.00 |
+| HSC | Rajuk Uttara Model College | 2019 | GPA 4.83/5.00 |
+| SSC | Qadirabad Cantonment Public School | 2017 | GPA 5.00/5.00 |
 
 ---
 

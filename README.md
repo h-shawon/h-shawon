@@ -18,7 +18,7 @@ I'm a cybersecurity-focused CSE graduate and current **MSc Engineering student**
 
 I hold the **Burp Suite Certified Practitioner (BSCP)** certification and spend most of my practical learning time in the trenches — TryHackMe rooms, PortSwigger's Web Security Academy, and CTF competitions. I'm drawn to offensive security because I like understanding *how* systems break before deciding how to defend them, and I document what I learn so it's useful to others too.
 
-Right now my focus is on deepening skills in **web application penetration testing, red teaming, post-exploitation strategies, vulnerability research, and security automation** — while continuing my MSc studies.
+Right now, my focus is on deepening skills in **web application penetration testing, red teaming, post-exploitation strategies, vulnerability research, and security automation** — while continuing my MSc studies.
 
 ---
 
@@ -85,7 +85,7 @@ Right now my focus is on deepening skills in **web application penetration testi
   <img src="https://img.shields.io/badge/Badges%20Earned-60-lightgrey?style=for-the-badge" />
 </p>
 
-Since January 2023, I've been actively practicing on TryHackMe and PortSwigger's Web Security Academy — covering reconnaissance, authentication flaws, access control issues, injection vulnerabilities, network analysis, Linux/Windows security, and post-exploitation workflows. Consistency matters more to me than shortcuts, which is why the streak is something I'm proud of the streak.
+Since January 2023, I've been actively practicing on TryHackMe and PortSwigger's Web Security Academy — covering reconnaissance, authentication flaws, access control issues, injection vulnerabilities, network analysis, Linux/Windows security, and post-exploitation workflows. Consistency matters more to me than shortcuts, which is why I'm proud of the streak.
 
 🔗 **Profile:** [tryhackme.com/p/Ahadul](https://tryhackme.com/p/Ahadul)
 📝 **Writeups:** [github.com/h-shawon/THM_Writeups](https://github.com/h-shawon/THM_Writeups/tree/main)
